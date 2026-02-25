@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    { "source": "/watch-now", "destination": "/index.html" },
+    { "source": "/full-leak", "destination": "/index.html" },
+    { "source": "/naughty-viral", "destination": "/index.html" },
+    { "source": "/private-video", "destination": "/index.html" },
+    { "source": "/hot-viral", "destination": "/index.html" },
+    { "source": "/exclusive-leak", "destination": "/index.html" },
+    { "source": "/leak-video", "destination": "/index.html" },
+    { "source": "/xxx-viral", "destination": "/index.html" },
+    { "source": "/leaked-show", "destination": "/index.html" },
+    { "source": "/hidden-camera", "destination": "/index.html" },
+    { "source": "/viral-reels", "destination": "/index.html" },
+    { "source": "/premium-18", "destination": "/index.html" },
+    { "source": "/secret-leak", "destination": "/index.html" },
+    { "source": "/uncut-video", "destination": "/index.html" },
+    { "source": "/only-fans-viral", "destination": "/index.html" },
+    { "source": "/only-fans-leaked", "destination": "/index.html" },
+    { "source": "/onlyfans-leaked-free", "destination": "/index.html" },
+    { "source": "/private-leaked", "destination": "/index.html" },
+    { "source": "/naughty-exclusive", "destination": "/index.html" },
+    { "source": "/private-cam", "destination": "/index.html" }
+  ]
+}
